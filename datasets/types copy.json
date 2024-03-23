@@ -5455,7 +5455,124 @@
         {
           "question": "Does a family history of cancer increase the likelihood of developing cancer?",
           "answer": "Yes, having a family history of certain types of cancer can increase an individual's risk of developing the same or related cancers."
-        },
-  
-  ]
-}
+        },      "question": "Does smoking increase the risk of cancer?",
+        "answer": "Yes, smoking is a leading cause of various types of cancers, including lung, throat, and mouth cancer."
+      },
+      {
+        "question": "Does a healthy diet help in preventing cancer?",
+        "answer": "Yes, maintaining a healthy diet rich in fruits, vegetables, and whole grains can help reduce the risk of cancer."
+      },
+      {
+        "question": "Does regular exercise reduce the risk of cancer?",
+        "answer": "Yes, regular physical activity can lower the risk of developing certain types of cancer, including breast and colon cancer."
+      },
+      {
+        "question": "Does excessive sun exposure increase the risk of skin cancer?",
+        "answer": "Yes, excessive sun exposure, especially without protection, can increase the risk of developing skin cancer."
+      },
+      {
+        "question": "Does alcohol consumption contribute to cancer development?",
+        "answer": "Yes, excessive alcohol consumption is linked to an increased risk of several types of cancer, including liver, breast, and colon cancer."
+      },
+      {
+        "question": "Does genetics play a role in cancer risk?",
+        "answer": "Yes, certain genetic factors can increase an individual's risk of developing specific types of cancer."
+      },
+      {
+        "question": "Does early detection improve cancer treatment outcomes?",
+        "answer": "Yes, early detection of cancer often leads to better treatment outcomes and increased chances of survival."
+      },
+      {
+        "question": "Does stress affect cancer risk?",
+        "answer": "While stress itself may not directly cause cancer, it can weaken the immune system, making the body less able to fight off cancer cells."
+      },
+      {
+        "question": "Does a family history of cancer increase the likelihood of developing cancer?",
+        "answer": "Yes, having a family history of certain types of cancer can increase an individual's risk of developing the same or related cancers."
+      },
+      {
+        "question": "Does hormone replacement therapy increase the risk of certain cancers?",
+        "answer": "Yes, long-term use of hormone replacement therapy (HRT) has been associated with an increased risk of breast and ovarian cancer."
+      },
+      {
+        "question": "Does regular medical check-up help in early detection of cancer?",
+        "answer": "Yes, regular medical check-ups and screenings can help detect cancer at an early stage when it is more treatable."
+      },
+      {
+        "question": "Does obesity increase the risk of cancer?",
+        "answer": "Yes, obesity is linked to an increased risk of several types of cancer, including breast, colon, and pancreatic cancer."
+      },
+      {
+        "question": "Does processed meat consumption increase the risk of certain cancers?",
+        "answer": "Yes, consuming processed meats like bacon, sausage, and hot dogs has been linked to an increased risk of colorectal cancer."
+      },
+      {
+        "question": "Does environmental pollution contribute to cancer rates?",
+        "answer": "Yes, exposure to environmental pollutants and carcinogens can increase the risk of developing cancer."
+      },
+      {
+        "question": "Does lack of sleep affect cancer risk?",
+        "answer": "While more research is needed, some studies suggest that chronic sleep deprivation may be linked to an increased risk of certain cancers."
+      },
+      {
+        "question": "Does a sedentary lifestyle increase cancer risk?",
+        "answer": "Yes, leading a sedentary lifestyle with little to no physical activity can increase the risk of developing certain types of cancer."
+      },
+      {
+        "question": "Does exposure to certain chemicals increase the risk of cancer?",
+        "answer": "Yes, exposure to certain chemicals and carcinogens in the workplace or environment can increase the risk of developing cancer."
+      },
+      {
+        "question": "Does red meat consumption increase cancer risk?",
+        "answer": "Yes, high consumption of red and processed meats has been linked to an increased risk of colorectal cancer."
+      },
+      {
+        "question": "Does breast self-examination help in early detection of breast cancer?",
+        "answer": "Yes, regular breast self-examinations can help women detect changes or abnormalities in their breasts, which may indicate breast cancer."
+      },
+      {
+        "question": "Does avoiding smoking and alcohol reduce cancer risk?",
+        "answer": "Yes, avoiding smoking and limiting alcohol consumption can significantly reduce the risk of developing various types of cancer."
+      },    {
+        "question": "Does smoking cause cancer?",
+        "answer": "Yes, smoking can cause cancer, especially in the lungs."
+      },
+      {
+        "question": "Does eating fruits and vegetables help prevent cancer?",
+        "answer": "Yes, eating fruits and vegetables can help reduce the risk of certain cancers."
+      },
+      {
+        "question": "Does exercise lower cancer risk?",
+        "answer": "Yes, regular exercise can lower the risk of some cancers."
+      },
+      {
+        "question": "Does sunburn increase skin cancer risk?",
+        "answer": "Yes, getting sunburned can increase the risk of skin cancer."
+      },
+      {
+        "question": "Does drinking too much alcohol increase cancer risk?",
+        "answer": "Yes, excessive alcohol consumption can increase the risk of cancer."
+      },
+      {
+        "question": "Does cancer run in families?",
+        "answer": "Yes, some types of cancer can be hereditary."
+      },
+      {
+        "question": "Does early detection help in treating cancer?",
+        "answer": "Yes, early detection can lead to better treatment outcomes."
+      },
+      {
+        "question": "Does stress affect cancer?",
+        "answer": "While stress may not directly cause cancer, it can impact overall health."
+      },
+      {
+        "question": "Does obesity increase cancer risk?",
+        "answer": "Yes, being overweight or obese can increase the risk of certain cancers."
+      },
+      {
+        "question": "Does red meat consumption increase cancer risk?",
+        "answer": "Yes, consuming large amounts of red meat may increase the risk of colorectal cancer."
+      }
+    ]
+  }
+ 
