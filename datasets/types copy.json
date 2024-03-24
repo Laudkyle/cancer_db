@@ -6245,6 +6245,84 @@
 {
   "question": "When should I start using sunscreen to reduce skin cancer risk?",
   "answer": "Sunscreen should be used daily, starting in childhood and continuing throughout life, to reduce the risk of skin cancer. It should be applied generously and reapplied every two hours or after swimming or sweating."
+},    {
+  "question": "When should I see a doctor if I notice a lump?",
+  "answer": "If you notice a new lump or any changes in your body, it's essential to see a doctor as soon as possible. Early detection can significantly impact treatment outcomes."
+},
+{
+  "question": "When should I start getting regular check-ups for cancer?",
+  "answer": "Regular check-ups for cancer should start based on your age and individual risk factors. It's crucial to discuss with your doctor to determine the appropriate screening schedule for you."
+},
+{
+  "question": "When do most people get diagnosed with cancer?",
+  "answer": "Cancer can be diagnosed at any age, but the risk increases as you get older. However, cancer can affect people of all ages, so it's essential to be aware of potential signs and symptoms."
+},
+{
+  "question": "When do I need to worry about skin changes?",
+  "answer": "If you notice any unusual changes in your skin, such as new moles, changes in size or color, or sores that don't heal, it's essential to see a doctor. These changes can be early signs of skin cancer."
+},
+{
+  "question": "When should I start talking to my family about our cancer history?",
+  "answer": "It's a good idea to start talking to your family about your cancer history as early as possible. This information can help identify potential genetic risks and guide screening recommendations."
+},
+{
+  "question": "When should I start thinking about cancer prevention?",
+  "answer": "It's never too early to start thinking about cancer prevention. Adopting a healthy lifestyle, including a balanced diet, regular exercise, and avoiding tobacco, can help reduce your cancer risk."
+},
+{
+  "question": "When do I need to do a breast self-exam?",
+  "answer": "A breast self-exam should be done regularly, ideally once a month. It's best to perform the exam a few days after your menstrual period ends. If you no longer have periods, choose a specific day each month."
+},
+{
+  "question": "When should I seek a second opinion for a cancer diagnosis?",
+  "answer": "If you've been diagnosed with cancer, it's often helpful to seek a second opinion to confirm the diagnosis and explore all treatment options. Don't hesitate to discuss this with your healthcare provider."
+},
+{
+  "question": "When can I expect to feel side effects from cancer treatment?",
+  "answer": "Side effects from cancer treatment can vary widely depending on the type of treatment and individual factors. Some people may experience side effects shortly after starting treatment, while others might not experience any for weeks or months."
+},
+{
+  "question": "When should I start using sunscreen to protect against skin cancer?",
+  "answer": "Sunscreen should be used daily, starting in childhood and continuing throughout life. It's essential to apply it generously and reapply every two hours or after swimming or sweating to reduce the risk of skin cancer."
+},    {
+  "question": "When do I need to get a colonoscopy?",
+  "answer": "You should start getting regular colonoscopies at age 45 to 50, or earlier if you have risk factors or a family history of colon cancer."
+},
+{
+  "question": "When do I need to start getting mammograms?",
+  "answer": "Women should start getting regular mammograms at age 40 to 50, depending on individual risk factors and family history of breast cancer."
+},
+{
+  "question": "When do I need to start wearing sunscreen?",
+  "answer": "You should wear sunscreen every day, starting from childhood and continuing throughout your life, to protect against skin cancer."
+},
+{
+  "question": "When do I need to worry about a mole?",
+  "answer": "If you notice a new or changing mole, especially if it's asymmetrical, has irregular borders, changes in color, or grows in size, it's essential to see a doctor."
+},
+{
+  "question": "When do I need to quit smoking?",
+  "answer": "You should quit smoking as soon as possible to reduce the risk of developing various types of cancer, including lung, throat, and mouth cancers."
+},
+{
+  "question": "When do I need to start eating healthier to prevent cancer?",
+  "answer": "You should start adopting a healthy diet rich in fruits, vegetables, whole grains, and lean proteins as early as possible to reduce your cancer risk."
+},
+{
+  "question": "When do I need to start getting prostate exams?",
+  "answer": "Men should start getting regular prostate exams at age 50 or earlier if there's a family history of prostate cancer or other risk factors."
+},
+{
+  "question": "When do I need to start checking my skin for changes?",
+  "answer": "You should regularly check your skin for any new or changing moles or spots, especially if you spend a lot of time in the sun."
+},
+{
+  "question": "When do I need to start getting pap smears?",
+  "answer": "Women should start getting regular pap smears starting at age 21 or earlier if sexually active, to screen for cervical cancer."
+},
+{
+  "question": "When do I need to start avoiding tanning beds?",
+  "answer": "You should avoid using tanning beds altogether to reduce the risk of skin cancer, as they emit harmful UV rays."
 }
   ]
 }
