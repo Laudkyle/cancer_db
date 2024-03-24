@@ -6206,6 +6206,45 @@
 {
   "question": "Which resources can help individuals learn more about cancer prevention?",
   "answer": "Educational resources such as websites, books, and workshops are available to help individuals learn more about cancer prevention and early detection."
+},    {
+  "question": "When should I start getting regular cancer screenings?",
+  "answer": "Regular cancer screenings should start based on individual risk factors and guidelines. Generally, routine screenings for breast, cervical, and colorectal cancers are recommended for adults at certain ages."
+},
+{
+  "question": "When is the best time to perform a breast self-exam?",
+  "answer": "Breast self-exams should ideally be performed monthly, a few days after the end of your menstrual cycle. If you no longer have periods, choose a specific day each month."
+},
+{
+  "question": "When does chemotherapy typically start after a cancer diagnosis?",
+  "answer": "The timing of chemotherapy after a cancer diagnosis varies based on the type and stage of cancer. It may start shortly after diagnosis or following surgery or other treatments."
+},
+{
+  "question": "When can I expect to see side effects from cancer treatment?",
+  "answer": "Side effects from cancer treatment can vary. Some may appear shortly after starting treatment, while others might develop over time. It's essential to discuss potential side effects with your healthcare team."
+},
+{
+  "question": "When is surgery recommended for cancer treatment?",
+  "answer": "Surgery for cancer treatment is recommended based on the type, stage, and location of the cancer. It may be the primary treatment or used in combination with other therapies like chemotherapy or radiation."
+},
+{
+  "question": "When should I seek a second opinion for cancer diagnosis?",
+  "answer": "It's often beneficial to seek a second opinion for a cancer diagnosis, especially for complex or rare cancers. Some people choose to do so immediately after diagnosis, while others may wait until treatment decisions need to be made."
+},
+{
+  "question": "When do cancer cells begin to develop in the body?",
+  "answer": "Cancer cells can develop when genetic mutations occur that disrupt normal cell growth and division. These mutations can be caused by various factors like genetics, lifestyle, and environmental exposures."
+},
+{
+  "question": "When is immunotherapy used in cancer treatment?",
+  "answer": "Immunotherapy is a type of cancer treatment that uses the body's immune system to fight cancer. It's used for various types of cancers, either alone or in combination with other treatments."
+},
+{
+  "question": "When does radiation therapy begin after cancer surgery?",
+  "answer": "The timing of radiation therapy after cancer surgery depends on several factors, including the type of cancer, the extent of surgery, and individual health. It may start shortly after surgery or be delayed to allow for healing."
+},
+{
+  "question": "When should I start using sunscreen to reduce skin cancer risk?",
+  "answer": "Sunscreen should be used daily, starting in childhood and continuing throughout life, to reduce the risk of skin cancer. It should be applied generously and reapplied every two hours or after swimming or sweating."
 }
   ]
 }
