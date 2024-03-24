@@ -5718,6 +5718,45 @@
     {
       "question": "Does a high-fiber diet help in cancer prevention?",
       "answer": "A high-fiber diet may lower the risk of colorectal cancer, among other health benefits."
-    }
+    },    {
+      "question": "Does quitting smoking prevent cancer?",
+      "answer": "Yes, quitting smoking is one of the most effective ways to reduce the risk of developing various types of cancer, including lung, throat, and mouth cancers."
+  },
+  {
+      "question": "Does regular exercise help prevent cancer?",
+      "answer": "Yes, regular physical activity has been shown to reduce the risk of certain types of cancer, such as breast and colon cancer."
+  },
+  {
+      "question": "Does maintaining a healthy weight lower cancer risk?",
+      "answer": "Yes, maintaining a healthy weight through balanced diet and regular exercise can help reduce the risk of several types of cancer."
+  },
+  {
+      "question": "Does a balanced diet reduce cancer risk?",
+      "answer": "Yes, consuming a balanced diet rich in fruits, vegetables, whole grains, and lean proteins can help lower the risk of cancer."
+  },
+  {
+      "question": "Does limiting alcohol intake prevent cancer?",
+      "answer": "Yes, limiting alcohol consumption is recommended as excessive alcohol intake can increase the risk of various cancers, including liver, breast, and colon cancer."
+  },
+  {
+      "question": "Does protecting skin from sun exposure prevent skin cancer?",
+      "answer": "Yes, protecting the skin from harmful UV rays by using sunscreen, wearing protective clothing, and seeking shade can help reduce the risk of skin cancer."
+  },
+  {
+      "question": "Does getting vaccinated prevent certain cancers?",
+      "answer": "Yes, vaccines like the HPV vaccine can help prevent certain types of cancer, such as cervical cancer."
+  },
+  {
+      "question": "Does avoiding tobacco products reduce cancer risk?",
+      "answer": "Yes, avoiding all forms of tobacco, including cigarettes, cigars, and smokeless tobacco, can significantly lower the risk of developing various types of cancer."
+  },
+  {
+      "question": "Does early detection through screenings help prevent cancer?",
+      "answer": "While screenings like mammograms and colonoscopies do not prevent cancer, they can help detect cancer at an early stage when treatment is most effective."
+  },
+  {
+      "question": "Does limiting processed foods help prevent cancer?",
+      "answer": "Yes, reducing the consumption of processed and red meats can help lower the risk of certain cancers, including colorectal cancer."
+  }
   ]
 }
